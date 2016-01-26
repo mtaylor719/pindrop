@@ -1,0 +1,16 @@
+This is for the pindrop security code test.
+
+This was created using django.
+
+File explaination:
+
+url.py: rest interface to python app.
+main/app.py interface into main program
+main/lib/Notes_Scraper.py used to preform scraping
+
+client.py used to interface as a service
+
+Server can be run locally by running:
+
+./manage.py runserver 127.0.0.1:8000
+
